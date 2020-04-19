@@ -16,8 +16,11 @@ Falls du einen Fehler entdeckt hast, teile ihn mir bitte SOFORT mit!
 
 Berechtigungen:
 > Gamemode1 >  perm: gamo.1 (Befehl: gamo1)
-> Gamemode2 >  perm: gamo.2 (Befehl: gamo2)
+
+> Gamemode2 >  perm: gamo.2 (Befehl: gamo2
+
 > Gamemode3 >  perm: gamo.3 (Befehl: gamo3)
+
 > Gamemode0 >  perm: gamo.0 (Befehl: gamo0)
 
 
