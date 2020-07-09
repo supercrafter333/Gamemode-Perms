@@ -3,7 +3,8 @@ dieses Plugin wurde von supercrafter333 entwickelt, und auch weiterentwickelt!
 Es ist  bisher für die folgende Versionen entwickelt wurden:
 - 1.13.+
 - 1.14.+
-- 1-14.60+ (API 3.12.x & API 3.13.x)
+- 1.14.60+ (API 3.12.x & API 3.13.x)
+- 1.16.+
 
 
 
@@ -28,7 +29,7 @@ Bisherige Versionen/Bugifxes:
 - v1.0.0 --- Grundversion (damals für 1.13.+)
 - v1.1.0 --- Auf Version 1.14.+ geupdated (API: 3.11.+)
 - v1.2.0 --- Auf Version 1.14.60+ geupdated (API: 3.12.+)
-- v1.3.0 --- Auf API 3.13.0 geupdatet & aliases hinzugefügt (/gm1; /gm2; /gm3; /gm0)
+- v1.3.0 --- Auf API 3.13.0 geupdatet & aliases hinzugefügt (/gm1; /gm2; /gm3; /gm0) + Aktualisierung auf 1.16
 
 
 
