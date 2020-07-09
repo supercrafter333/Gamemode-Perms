@@ -4,10 +4,12 @@ api:
 - 3.11.0
 - 3.12.0
 - 3.13.0
+- 3.14.0
 mcpe-version:
 - 388
 - 389
 - 390
+- 407
 version: 1.3.0-by-supercrafter333
 main: gmperms\supercrafter333\main
 author: supercrafter333
